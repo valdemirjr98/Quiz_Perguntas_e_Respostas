@@ -1,0 +1,25 @@
+(GTA)Onde mora Michael?|Vinewood Boulevard|Downtown|Rockford Hills|Nenhum desses|3
+(GTA)Qual o nome da caminhonete de Trevor?|Sulta Rs|Canis Bodhi|Canis Mesa|Karin Label|2
+(GTA)Qual é a última arma desbloqueada no modo história?|Minigun|Metralhadora de Combate|RPG|Fuzil Avançado|4
+(GOW)Quem Kratos mata no final de God of War 2?|Athena|Ares|Afrodite|Zeus|1
+(GOW)Qual desses personagens não é irmã(o) de Kratos?|Poseidon|Deimos|Hércules|Ícaro|4
+(GOW)Qual dessas personagens nunca existiu em God of War?|Zelda|Réia|Lysandra|Ártemis|1
+(LOL)Qual o campeão cujo a ultimate, comba com a do Yasuo?|Leona|Zyra|Morgana|Caitlyn|2
+(LOL)Qual o nome da skin que Twisted Fate e Evelynn tem em comum?|Twisted Fate dançarino de tango e Evelynn dançarina de tango.|Twisted Fate sombrio e Evelynn sombria.|Twisted Fate do submundo e Evelynn do submundo.|Twisted Fate mascarado e Evelynn mascarada.|1
+(LOL)Qual campeão tem o título de "Mensageiro da morte"?|Karthus.|Fiddlesticks.|Akali.|Zed.|1
+(CLRoyale)Qual dessas tropas NÃO ataca outras tropas aéreas?|Bruxa.|Arqueiras.|Mago.|Bombardeiro.|4
+(CLRoyale)Em que animal o corredor monta?|Um porco do Mato.|Um porco.|Um javali.|Um mamute.|3
+(CLRoyale)Quantos troféus são necessários para chegar na arena 8?|2300.|2600.|2400.|2200.|1
+(WOW)Qual é o desenho na bandeira da aliança?|Ragnaros|Dragão|Arthas|Leão|4
+(WOW)Qual destas profissões é uma profissão Secundária:|Ferraria (Blacksmith)|Alquimia (Alchemy)|Culinária (Cooking)|Alfaiate (Tailoring)|3
+(WOW)O Mago pode se especializar em 3 árvores de talento, são elas:|Fire, Frost e Shadow|Discipline, Frost e Protection|Arcane, Survival e Fury|Arcane, Fire e Frost|4
+(CSGO)Quantos rounds são necessários para ganhar uma partida competitiva?|22|11|14|16|4
+(CSGO)No mapa inferno possui um lugar que tem nome de uma fruta. Qual é está fruta?|Banana|Maça|Pera|Uva|1
+(CSGO)O mapa Overpass tem um lugar que tem nome de um anfíbio no aumentativo. Qual é esse anfíbio?|Rã|Alcapone|Sapão|Perereca|3
+(Naruto)Quantos Kages existem?|2|3|4|5|4
+(Naruto)Qual é a formação da equipe 10?|Hi-Ki-Shi|Na-Sa-Sa|Ino-Shika-Cho|Lee-Ten-Ne|3
+(Naruto)O Jinchurik da biju de oito caudas é?|Rashomou|Sanbi|Roushi|Naruto|3
+(DBZ)Qual a primeira transformação que goku obtem no dragon ball super?|Super Sayajin|Ozaru|Super Sayajin Deus|Super Sayajin 3|3
+(DBZ)Quem no começo de DBZ super luta intensamente contra Goku ?|Vegeta|Bills|Bulma|Gohan|2
+(DBZ)Qual a nova "forma ou técnica" que goku obtem no torneio do poder?|Supreme Form|Limit Break|Ultra Instinct|Legendary Super Sayajin|3
+(DBZ)Qual o nome do irmão de Bills?|Chump|Maroon|Rodrigo|Champa|4
